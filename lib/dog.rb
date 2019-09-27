@@ -20,4 +20,4 @@ fido = Dog.new
 fido.name = "Fido"
 
 snoopy = Dog.new
-snoopy.breed = "RUBY_RELEASE_DATEgle"
+snoopy.breed = "Beagle"
